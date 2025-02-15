@@ -1,22 +1,28 @@
 ![Junior Web Developer &  CSE Student](https://media.licdn.com/dms/image/v2/D5616AQGkyvMIUANLvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739387528276?e=1744848000&v=beta&t=KPbia9lHOUxU1ByLMb8T6JLEaY4bW9r1lBtgKf1zs6A)
-### Hi there 👋, Myself MD. Raihan Hasan Rana
+### Hi, Myself MD. Raihan Hasan Rana
 #### Junior Web Developer &  CSE Student
 
 
-Trying to make "Simple Everything".
-Every technology inspire me to learn new something. Specially computer related programming inspire me a lot.
-I am a Computer Science and Engineering Student at United International University(UIU).I have a thinking mind by which I try to sort out my problem.
+🚀 **Simple Everything**
+I believe in making things as simple as possible. Every technology inspires me to learn something new, especially programming, which drives my passion for continuous growth.🎓 Computer Science and Engineering Student at United International University (UIU). I have a curious mind that constantly seeks solutions to problems.💻 Technology is my dream, and I am confident that this dream will lead me to my destination.
+I've completed beginner-level courses in C, C++, and JAVA and am constantly learning more. I also have government certification in MS Word, MS Excel, and MS PowerPoint.🏏 Outside of tech, I'm a cricket lover and enjoy spending my free time with friends.
 
-Technology is my dream, i hope this dream will lead me to my destination. I've completed C,C++,JAVA with beginner level & learning constantly. Also completed Ms word, Ms excel, Ms PowerPoint program with govt certificate.
-Outside tech , I am a cricket lover and spend my free days with my friends.
+🌟 Skills:
+Programming Languages: C, C++, JAVA, JavaScript
+Web Development: HTML, CSS (Completed), JavaScript (Currently Learning)
+Productivity Tools: MS Word, MS Excel, MS PowerPoint
 
-Skills: C / JAVA/ JS / HTML / CSS
+🤺I’m currently working on:
+Student Life and Web Development Projects
+🧘 I’m currently learning:
+Advanced JavaScript for Web Development
+👀 I’m looking to collaborate on:
+Open Source Projects on GitHub
+💬 Ask me about:
+Web Development and Programming Basics
+📫 How to reach me:
+Email:raihan172hasan@gmail.com
 
-- 🔭 I’m currently working on Student Life 
-- 🌱 I’m currently learning JavaScript  
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Web Development  
-- 📫 How to reach me: On phone or Email 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raihan-143)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/raihan-hasan-61962328a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1DsyU8WuRM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/raihan__reza?igsh=MWZndGM0eDllYXEwMA==/)  
