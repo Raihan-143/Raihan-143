@@ -7,7 +7,7 @@
 I believe in making things as simple as possible. Every technology inspires me to learn something new, especially programming, which drives my passion for continuous growth.🎓**Computer Science and Engineering Student at United International University (UIU)**. I have a curious mind that constantly seeks solutions to problems.💻 Technology is my dream, and I am confident that this dream will lead me to my destination.
 I've completed beginner-level courses in **C**, **C++**, and **JAVA** and am constantly learning more. I also have government certification in **MS Word**,**MS Excel**, and **MS PowerPoint**.🏏 Outside of tech, **I'm a cricket lover** and enjoy spending my free time with friends.
 
-🌟** Skills:**
+🌟**Skills:**
 **Programming Languages:** C, C++, JAVA, JavaScript.
 **Web Development:** HTML, CSS (Completed), **JavaScript (Currently Learning)**.
 **Productivity Tools:** MS Word, MS Excel, MS PowerPoint.
