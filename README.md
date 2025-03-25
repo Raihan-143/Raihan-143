@@ -8,8 +8,8 @@ I believe in making things as simple as possible. Every technology inspires me t
 I've completed beginner-level courses in **C**, **C++**, and **JAVA** and am constantly learning more. I also have government certification in **MS Word**,**MS Excel**, and **MS PowerPoint**.🏏 Outside of tech, **I'm a cricket lover** and enjoy spending my free time with friends.
 
 🌟**Skills:**
-**Programming Languages:** C, C++, JAVA, JavaScript.
-**Web Development:** HTML, CSS (Completed), **JavaScript (Currently Learning)**.
+**Programming Languages:** C, C++, JAVA, JavaScript, React JSX.
+**Web Development:** HTML, CSS (Completed), **JavaScript & React jsx (Currently Learning)**.
 **Productivity Tools:** MS Word, MS Excel, MS PowerPoint.
 
 🤺I’m currently working on:
