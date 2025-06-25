@@ -1,7 +1,8 @@
 # 💫 About Me:
 ### 👋 Hi there, I'm Md. Raihan Hasan Rana!<br><br>
 💻 A passionate Full Stack Web Developer from Bangladesh<br>🎓 CSE student at United International University<br>🔥 Self-taught learner, turning dreams into code<br>📚 I make posts about my projects and daily learning on ✨ [Linkedin](https://www.linkedin.com/in/md-raihan-hasan-rana-61962328a/)<br<br>
-###📌** What I'm working on:**<br>
+**📌 What I'm working on:**
+<br>
 🏠 A Roommate Finder Website with full CRUD and chat connection<br>📦 A Parcel Delivery SaaS Website (ParcelPulse) — built with professional UI, animation, and dark mode<br>👨‍⚖️ A Lawyer Appointment Booking App with dynamic routes and chart visualizations<br>📚 Improving my skills in Backend API development using Express.js + MongoDB<br>🧪 Experimenting with Dark Mode, UI Animation, and modern UX features<br>
 
 
