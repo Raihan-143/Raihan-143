@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[./banner.png](https://media.licdn.com/dms/image/v2/D5616AQGkyvMIUANLvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739387528276?e=1756339200&v=beta&t=p40iQ7KvbuFFDObKLR5L5YUQSdZsSVBJVXrIENlltu4)" alt="Banner" width="100%" />
+  <img src="./git-1.png" alt="Banner" width="100%" />
 </p>
 
 
