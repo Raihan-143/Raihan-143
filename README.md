@@ -1,10 +1,8 @@
-
 <p align="center">
   <img src="./git-1.png" alt="Banner" width="100%" />
 </p>
 
-
-# 💫 About Me:
+  # 💫 About Me:
 ### 👋 Hi there, I'm Md. Raihan Hasan Rana!<br>
 💻 A passionate Full Stack Web Developer from Bangladesh<br>🎓 CSE student at United International University<br>🔥 Self-taught learner, turning dreams into code<br>📚 I make posts about my projects and daily learning on ✨ [Linkedin](https://www.linkedin.com/in/md-raihan-hasan-rana-61962328a/)<br><br>
 **📌 What I'm working on:**
