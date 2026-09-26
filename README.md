@@ -41,5 +41,5 @@ My core focus is securing corporate enterprise infrastructure, proactive vulnera
 ---
 
 ### 📬 Professional Inquiries:
-- 💼 **LinkedIn:** [raihan-hasan-61962328a](https://www.linkedin.com/in/raihanrana/)
+- 💼 **LinkedIn:** [Raihan Hasan Rana](https://www.linkedin.com/in/raihanrana/)
 - 📧 **Email:** [raihan172hasan@gmail.com](mailto:raihan172hasan@gmail.com)
