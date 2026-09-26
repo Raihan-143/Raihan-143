@@ -40,6 +40,15 @@ My core focus is securing corporate enterprise infrastructure, proactive vulnera
 
 ---
 
+### 🔭 Currently Mastering & Upcoming Security Arsenal:
+Continuous learning is at the heart of cyber defense. Here is my active roadmap for expanding my offensive & defensive capabilities:
+
+- 🕷️ **Burp Suite:** Web application penetration testing, request interception, and API vulnerability assessment.
+- ⚡ **Metasploit Framework:** Exploit automation, payload generation, and reverse-shell management.
+- 🌐 **Advanced Nmap (NSE):** Custom vulnerability scanning using the Nmap Scripting Engine.
+- 🎯 **Hands-On Cyber Range (TryHackMe & PortSwigger):** Solving real-world CTF (Capture The Flag) challenges and OWASP Top 10 labs.
+- 🦈 **Deep Packet Inspection (Wireshark GUI):** Real-time network forensics and malicious traffic analysis.
+
 ### 📬 Professional Inquiries:
 - 💼 **LinkedIn:** [Raihan Hasan Rana](https://www.linkedin.com/in/raihanrana/)
 - 📧 **Email:** [raihan172hasan@gmail.com](mailto:raihan172hasan@gmail.com)
